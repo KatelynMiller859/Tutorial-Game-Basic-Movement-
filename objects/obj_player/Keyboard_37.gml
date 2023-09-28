@@ -17,5 +17,5 @@ image_yscale = 1;
 /// @DnDVersion : 1
 /// @DnDHash : 3AB90DA1
 /// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "Walk"
-Walk = 1;
+/// @DnDArgument : "var" "isWalk"
+isWalk = 1;

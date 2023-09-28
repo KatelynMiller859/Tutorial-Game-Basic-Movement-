@@ -11,5 +11,5 @@ y += -5;
 /// @DnDVersion : 1
 /// @DnDHash : 44AF9A15
 /// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "Walk"
-Walk = 1;
+/// @DnDArgument : "var" "isWalk"
+isWalk = 1;
